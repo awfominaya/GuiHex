@@ -1,0 +1,33 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="GUIHex.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SchemaPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\Main\Documents\PES Editing\Schemas\EightInt16s.Schema</Value>
+    </Setting>
+    <Setting Name="BinPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C://Users//Main//Documents//KONAMI//eFootball PES 2020//76561198096344183//save//Edit//data - Copy.dat</Value>
+    </Setting>
+    <Setting Name="StartHex" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="EndHex" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Offset" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="NumVals" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="SaveDirectory" Type="System.String" Scope="User">
+      <Value Profile="(Default)">AppDomain.CurrentDomain.BaseDirectory</Value>
+    </Setting>
+    <Setting Name="DefaultExtension" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Schema</Value>
+    </Setting>
+    <Setting Name="BackupExtension" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Bak</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

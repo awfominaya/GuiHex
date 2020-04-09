@@ -1,0 +1,9 @@
+C:\Users\Main\source\repos\GUIHex\GUIHex\bin\Release\GUIHex.exe.config
+C:\Users\Main\source\repos\GUIHex\GUIHex\bin\Release\GUIHex.exe
+C:\Users\Main\source\repos\GUIHex\GUIHex\bin\Release\GUIHex.pdb
+C:\Users\Main\source\repos\GUIHex\GUIHex\obj\Release\GUIHex.Form1.resources
+C:\Users\Main\source\repos\GUIHex\GUIHex\obj\Release\GUIHex.Properties.Resources.resources
+C:\Users\Main\source\repos\GUIHex\GUIHex\obj\Release\GUIHex.csproj.GenerateResource.cache
+C:\Users\Main\source\repos\GUIHex\GUIHex\obj\Release\GUIHex.csproj.CoreCompileInputs.cache
+C:\Users\Main\source\repos\GUIHex\GUIHex\obj\Release\GUIHex.exe
+C:\Users\Main\source\repos\GUIHex\GUIHex\obj\Release\GUIHex.pdb

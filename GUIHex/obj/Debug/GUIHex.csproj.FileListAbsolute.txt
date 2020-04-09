@@ -1,0 +1,10 @@
+C:\Users\Main\source\repos\GUIHex\GUIHex\bin\Debug\GUIHex.exe.config
+C:\Users\Main\source\repos\GUIHex\GUIHex\bin\Debug\GUIHex.exe
+C:\Users\Main\source\repos\GUIHex\GUIHex\bin\Debug\GUIHex.pdb
+C:\Users\Main\source\repos\GUIHex\GUIHex\obj\Debug\GUIHex.csprojAssemblyReference.cache
+C:\Users\Main\source\repos\GUIHex\GUIHex\obj\Debug\GUIHex.Form1.resources
+C:\Users\Main\source\repos\GUIHex\GUIHex\obj\Debug\GUIHex.Properties.Resources.resources
+C:\Users\Main\source\repos\GUIHex\GUIHex\obj\Debug\GUIHex.csproj.GenerateResource.cache
+C:\Users\Main\source\repos\GUIHex\GUIHex\obj\Debug\GUIHex.csproj.CoreCompileInputs.cache
+C:\Users\Main\source\repos\GUIHex\GUIHex\obj\Debug\GUIHex.exe
+C:\Users\Main\source\repos\GUIHex\GUIHex\obj\Debug\GUIHex.pdb
